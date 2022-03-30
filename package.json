@@ -1,6 +1,6 @@
 {
   "name": "@pres-inc/eslint-config-typescript",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Shared eslint config for Typescript",
   "main": "index.js",
   "scripts": {
@@ -20,12 +20,10 @@
     "access": "restricted",
     "registry": "https://npm.pkg.github.com/"
   },
-  "devDependencies": {
-    "@typescript-eslint/eslint-plugin": "^5.17.0",
-    "@typescript-eslint/parser": "^5.17.0",
-    "eslint-plugin-import": "^2.25.4"
-  },
   "peerDependencies": {
-    "eslint": ">= 8"
+    "@typescript-eslint/eslint-plugin": ">= 5",
+    "@typescript-eslint/parser": ">= 5",
+    "eslint": ">= 8",
+    "eslint-plugin-import": ">= 2"
   }
 }
