@@ -11,7 +11,7 @@
     "url": "git+https://github.com/pres-inc/eslint-config-typescript.git"
   },
   "author": "Ken Matsui <26405363+ken-matsui@users.noreply.github.com>",
-  "license": "UNLICENSED",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/pres-inc/eslint-config-typescript/issues"
   },
