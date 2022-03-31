@@ -1,6 +1,6 @@
 {
   "name": "@pres-inc/eslint-config-typescript",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "description": "Shared eslint config for Typescript",
   "main": "index.js",
   "scripts": {
@@ -17,7 +17,6 @@
   },
   "homepage": "https://github.com/pres-inc/eslint-config-typescript#readme",
   "publishConfig": {
-    "access": "restricted",
     "registry": "https://npm.pkg.github.com/"
   },
   "peerDependencies": {
