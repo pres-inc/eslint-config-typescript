@@ -19,12 +19,10 @@
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/"
   },
-  "devDependencies": {
-    "eslint-plugin-import": "^2.25.4"
-  },
   "peerDependencies": {
     "@typescript-eslint/eslint-plugin": ">= 5",
     "@typescript-eslint/parser": ">= 5",
-    "eslint": ">= 8"
+    "eslint": ">= 8",
+    "eslint-plugin-import": ">= 2"
   }
 }
