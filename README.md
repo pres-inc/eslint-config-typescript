@@ -8,7 +8,7 @@
    ```
 2. You also need to install peer dependencies
    ```bash
-   $ npm install -D @typescript-eslint/eslint-plugin @typescript-eslint/parser eslint eslint-plugin-import
+   $ npm install -D @typescript-eslint/eslint-plugin @typescript-eslint/parser eslint
    ```
 
 ## Usage
