@@ -25,7 +25,6 @@ module.exports = {
     "import/no-duplicates": "error",
     "@typescript-eslint/consistent-type-imports": "error",
     "@typescript-eslint/no-explicit-any": "error",
-    "@typescript-eslint/member-delimiter-style": "error",
     "@typescript-eslint/consistent-type-definitions": "error",
     "@typescript-eslint/explicit-function-return-type": "error"
   }
